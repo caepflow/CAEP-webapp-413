@@ -1,0 +1,15 @@
+id: 8e301bdb-9f2d-4fac-bc4e-c7c6d2662206
+type: database
+annotations:
+- namespace: c4modeler
+  name: position
+  value:
+    b9bfc1a0-1e6e-4c23-b019-88a8c9923739:
+      x: 252
+      y: 674
+    37eb92f9-d115-4d27-8d97-2efc08cfa900:
+      x: 983.5
+      y: 125.5
+name: NewDatabase
+provider: sqlserver
+description: SQL Database
